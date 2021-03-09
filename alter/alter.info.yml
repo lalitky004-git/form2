@@ -1,0 +1,5 @@
+name: AlterForm
+type: module
+description: Defines a simple form.
+core_version_requirement: ^8.8 || ^9
+package: Custom

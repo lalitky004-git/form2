@@ -1,0 +1,9 @@
+alter.alter_form:
+  path: '/admin/config/alter/config'
+  defaults:
+    _form: 'Drupal\alter\Form\AlterForm'
+    _title: 'Add Subscription Detail'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE

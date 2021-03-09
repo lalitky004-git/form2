@@ -1,0 +1,6 @@
+alter.alter_form:
+  title: 'Add Subscription Details'
+  route_name: alter.alter_form
+  description: 'Details of subscription'
+  parent: system.admin_config_system
+  weight: 99
